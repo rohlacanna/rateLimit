@@ -1,0 +1,34 @@
+# Binários
+/rateLimit
+*.exe
+
+# Arquivos temporários
+*.tmp
+
+# Binários para programas e plugins
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Arquivos de teste
+*.test
+
+# Arquivos de cobertura de código
+*.out
+
+# Diretórios de dependência
+/vendor/
+
+# Arquivos temporários do IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de log
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db 
